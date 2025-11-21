@@ -4,10 +4,11 @@ from collections import Counter
 import matplotlib.pyplot as plt
 
 referencias = {
-    "Inglés": "en.txt",
-    "Francés": "fr.txt",
-    "Italiano": "it.txt"
+    "Inglés": "en_largo.txt",
+    "Francés": "fr_largo.txt",
+    "Italiano": "it_largo.txt"
 }
+
 
 misteriosos = {
     "Texto 1": "texto1.txt",
